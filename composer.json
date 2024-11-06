@@ -1,0 +1,18 @@
+{
+    "name": "diogof648/simple-php-router",
+    "description": "A simple PHP router for your projects.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Diogof648\\SimplePhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diogo da Silva Fernandes",
+            "email": "diogosilvafernandes85@gmail.com"
+        }
+    ],
+    "require": {}
+}
